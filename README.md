@@ -26,6 +26,8 @@ Showcase of practical data analysis skills using SQL [Achieved 100%]
 
 ### Executive Summary
 
+The "Databases and SQL for Data Science with Python" section of the IBM Data Science Professional Certificate provided a comprehensive introduction to databases, tables, and their relationships. Topics covered included the creation of a database instance on the cloud, basic SQL statements such as CREATE TABLE, SELECT, INSERT, and DELETE, as well as more advanced statements such as ALTER, DROP, and TRUNCATE. Additionally, the course covered the usage of string patterns and ranges to search and sort data, grouping data into result sets, and writing sub-queries and nested select statements. The section on accessing databases using Python covered concepts related to connecting to databases, creating tables, loading data, querying data using SQL, and analyzing data using Python. Assignments included working with real-world datasets and querying them using an SQL.
+
 ### Technologies and Libraries Used
 
 - Python programming language
