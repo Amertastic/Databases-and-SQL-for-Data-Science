@@ -30,9 +30,15 @@ The "Databases and SQL for Data Science with Python" section of the IBM Data Sci
 
 ### Technologies and Libraries Used
 
+- SQL language
 - Python programming language
 - Jupyter Notebook (JupyterLab)
 - Pandas for data manipulation and analysis
+- ibm_db library for connecting to IBM databases from Python
+- IBM Cloud for creating database instance
+- SQLite database for storing and manipulating data
+- Seaborn for statistical data visualization
+- Matplotlib inline for generating plots in Jupyter Notebook
 
 
 ### Dataset
