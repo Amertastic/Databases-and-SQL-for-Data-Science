@@ -3,7 +3,7 @@
 Showcase of practical data analysis skills using SQL [Achieved 100%]
 
 <p align="center">
-  <img width="150" height="150" src="https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data_Analysis_w_Python.png">
+  <img width="150" height="150" src="https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/Databases-and-SQL-for-Data-Science.png">
 </p>
 
 ## Table of Contents
