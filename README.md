@@ -73,7 +73,7 @@ We analyzed and visualized the data from these datasets to better understand the
 The collection of projects uploaded on the GitHub repo demonstrate a solid understanding of databases and SQL for data science with Python. The projects cover the essential skills and concepts required to work with databases, including creating and executing basic SQL statements, creating and manipulating tables, using string patterns and ranges to search data, sorting and grouping data, composing nested queries, and accessing databases using Python.
 
 
-|<img src="https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/ConvertingQueryResultsToDataFrames.png" width="110%" height="110%">|<img src="https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/ScatterPlotCorrelationBetweenTwoVariables.png" width="50%" height="50%"> | 
+|<img src="https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/ConvertingQueryResultsToDataFrames.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/ScatterPlotCorrelationBetweenTwoVariables.png" width="45%" height="45%"> | 
 |:--:|:--:| 
 | *Converting a SQL query result to a pandas dataframe to graph the test score distribution* | *You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables.* |
 
