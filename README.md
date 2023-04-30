@@ -65,9 +65,9 @@ We analyzed and visualized the data from these datasets to better understand the
 ### Evaluation
 
 
-|![](https://github.com/Amertastic/Data-Analysis-Exercises/blob/main/Images/Data%20Acquisition.png) | 
+|![](https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/ConvertingQueryResultsToDataFrames.png) | 
 |:--:| 
-| *Reading / Saving Other Data Formats* |
+| *Converting a SQL query result to a pandas dataframe to graph the test score distribution* |
 
 
 The collection of projects uploaded on the GitHub repo demonstrate a solid understanding of databases and SQL for data science with Python. The projects cover the essential skills and concepts required to work with databases, including creating and executing basic SQL statements, creating and manipulating tables, using string patterns and ranges to search data, sorting and grouping data, composing nested queries, and accessing databases using Python.
