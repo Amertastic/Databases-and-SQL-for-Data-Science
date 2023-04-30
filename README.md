@@ -22,6 +22,10 @@ Showcase of practical data analysis skills using SQL [Achieved 100%]
   - 03 - Analyzing Real World Data-Set.ipynb
   - 04 - Working With Real World Data-Set.ipynb
   - 05 - Peer Assignment.ipynb
+- Data: The relevant CSV files can be found in the Data Folder.
+  - ChicagoCensusData.csv
+  - ChicagoPublicSchools.csv
+  - ChicagoCrimeData.csv
 - README.md
 
 ### Executive Summary
@@ -43,6 +47,20 @@ The "Databases and SQL for Data Science with Python" section of the IBM Data Sci
 
 ### Dataset
 
+Datasets used in the final assignment can be found as a CSV files in the Data folder
+
+For this project, we used three datasets available on the city of Chicago's Data Portal to explore the relationship between Chicago's socioeconomic indicators, public school performance, and crime rates. 
+
+The first dataset, ChicagoCensusData.csv, contained six socioeconomic indicators and a hardship index for each Chicago community area for the years 2008-2012.
+A detailed description of this dataset and the original dataset can be obtained from the Chicago Data Portal at: https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
+
+The second dataset, ChicagoPublicSchools.csv, included all school-level performance data used to create CPS School Report Cards for the 2011-2012 school year. 
+A detailed description of this dataset and the original dataset can be obtained from the Chicago Data Portal at: https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t
+
+Lastly, the third dataset, ChicagoCrimeData.csv, reflected reported incidents of crime (excluding murders) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. 
+A detailed description of this dataset and the original dataset can be obtained from the Chicago Data Portal at: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+
+We analyzed and visualized the data from these datasets to better understand the relationship between these different factors in Chicago.
 
 ### Evaluation
 
