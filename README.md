@@ -75,7 +75,7 @@ The collection of projects uploaded on the GitHub repo demonstrate a solid under
 
 |<img src="https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/ConvertingQueryResultsToDataFrames.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Databases-and-SQL-for-Data-Science/blob/main/Images/ScatterPlotCorrelationBetweenTwoVariables.png" width="45%" height="45%"> | 
 |:--:|:--:| 
-| *Converting a SQL query result to a pandas dataframe to graph the test score distribution* | *You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables.* |
+| *Converting a SQL query result to a pandas dataframe to graph the test score distribution* | *"You can see that as Per Capita Income rises as the Hardship Index decreases. We see that the points on the scatter plot are somewhat closer to a straight line in the negative direction, so we have a negative correlation between the two variables."* |
 
 
 The notebooks show a deep understanding of SQL concepts such as string patterns, ranges, and sub-queries, as well as data analysis using Python libraries such as Pandas, NumPy, and Matplotlib. The ability to translate data analysis questions into SQL queries and interpret the results is also demonstrated in the projects.
